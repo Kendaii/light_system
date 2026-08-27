@@ -38,3 +38,32 @@ En terme de règles, un Aspect est équivalent à une **Compétence**.
 | **Eau** | Bleu | Eau, Glace, Brume, Mer, Esprit, Rapidité, Commerce. |
 | **Bête** | Brun | Contrôle des Animaux, Métamorphose, Thérianthropie, Corps, Rapidité, Sens, Sauvagerie, Liberté. |
 | **Forêt** | Vert Foncé | Contrôle des Plantes, Poison, Soins, Esprit, Sens, Méditation. |
+
+#### Hubris
+
+| Aspect | Couleur | Domaine |
+|:------:|:-------:|:--------|
+| **Sang** | Rouge Sombre | Meurtre, Souffrance, Os, Chair, Lames, Malédiction, Corruption. |
+| **Violence** | Rouge Vif | Colère, Guerre, Feu, Corps, Rapidité, Combat, Armes, Dégâts, Feu d'Enfer. |
+| **Pouvoir** | Or | Envie, Magie, Richesse, Charisme, Lecture des pensées, Charme, Hypnose, Manipulation mémorielle, Création d'Objets, Illusions. |
+| **Ténèbres** | Noir | Peur, Ombre, Paralysie, Cauchemars, Manipulation des ombres, Rapidité, Discrétion. |
+| **Mort** | Vert Spectral | Tristesse, Nécromancie, Affaiblissement, Maladies, Froid, Glace Spectrale, Zombies, Éternité. |
+| **Vice** | Violet | Sexe, Drogues, Nourriture, Plaisir, Phéromones, Orgasme, Maladie, Décadence. |
+| **Désordre** | Prismatique | Folie, Illusion, Invisibilité, Diversion, Création incontrôlée, Anarchie, Liberté. |
+
+#### Radiance
+
+| Aspect | Couleur | Domaine |
+|:------:|:-------:|:--------|
+| **Destinée** | Argent | Chance, Bénédiction, Malédiction, Oracle, Rêves Prémonitoires, Lune. |
+| **Justice** | Jaune | Lumière, Feu purificateur, Protection, Jugement, Armure, Soleil. |
+| **Savoir** | Cyan | Runes, Sciences, Ingénierie, Innovation, Bibliothèque. |
+| **Amour** | Magenta | Passion, Sexe, Abnégation, Miracles, Flammes, Plaisir. |
+| **Guérison** | Vert Clair | Soins, Protection, Régénération, Résurrection. |
+| **Art** | Polychrome | Peinture, Dessin, Chant, Musique, Sculpture, Forge. |
+| **Harmonie** | Ivoire | Joie, Confiance, Synergie, Protection, Calme. |
+
+#### Technomancie
+
+TODO   
+
