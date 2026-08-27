@@ -88,9 +88,10 @@ Il est impossible d'ajouter des Dés Bonus pour un test de Chance.
 
 ### Coût
 Le premier dé coûte 1 point de Vie ou de Mental, le coût est cumulatif et augmente de +1 pour chaque dé supplémentaire.
-- 1 Dé Bonus = 1 point de Vie ou de Mental.
-- 2 Dés Bonus = 3 points de Vie ou de Mental.
+- 1 Dé Bonus = 1 point de Vie ou de Mental.  
+- 2 Dés Bonus = 3 points de Vie ou de Mental.  
 - 3 Dés Bonus = 6 points de Vie ou de Mental.
+
 Le maximum de Dés Bonus utilisable pour un jet donné est à la discrétion du MJ. Je recommande un maximum compris entre 3 et 5.
 
 ---
